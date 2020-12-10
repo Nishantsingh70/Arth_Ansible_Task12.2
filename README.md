@@ -9,3 +9,6 @@
 🔹 After this launch the webserver for running the application
 
 🔹 Launch the haproxy and webserver with the help of roles
+
+
+LinkedIn Blog URL: https://www.linkedin.com/posts/nishant-singh-276104185_vimaldaga-righteducation-educationredefine-activity-6741945686163566593-Az15
